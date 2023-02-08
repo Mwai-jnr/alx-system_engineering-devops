@@ -1,0 +1,1 @@
+script shows absolute path
